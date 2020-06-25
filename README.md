@@ -1,6 +1,6 @@
 # DiceRandomGenerator
 
-A new Flutter project.
+This is the simple flutter project which greates the random dice face when clicked on it.
 
 ## Getting Started
 
